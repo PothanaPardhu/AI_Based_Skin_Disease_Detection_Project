@@ -45,7 +45,7 @@ This project was an intelligent, real-time skin health monitoring system that de
 ## 🔧 Installation
 
 ```bash
-git clone (https://github.com/PothanaPardhu/AI_Based_Skin_Disease_Detection_Project)
+git clone https://github.com/PothanaPardhu/AI_Based_Skin_Disease_Detection_Project
 cd AI_Based_Skin_Disease_Detection_Project
 pip install -r requirements.txt
 streamlit run app.py
