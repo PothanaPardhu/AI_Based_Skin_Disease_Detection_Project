@@ -1,5 +1,5 @@
 # 🌿 AI-Based Skin Disease Detector
-An AI-Based skin disease detector is an CNN Machine learning app that analyzes uploaded skin images to detect skin disease conditions like acne, eczema, dryness, hyperpigmentation, and healthy skin, while providing personalized skincare tips..
+An AI-Based skin Disease Detector is an CNN Machine learning app that analyzes uploaded skin images to detect skin disease conditions like acne, eczema, dryness, hyperpigmentation, and healthy skin, while providing personalized skincare tips..
 
 This project was an intelligent, real-time skin health monitoring system that detects common skin conditions using **Convolutional Neural Networks (CNNs)** and an elegant **Streamlit** UI. Empower users with fast, accessible, and accurate skin disease predictions—right from their browser!
 
