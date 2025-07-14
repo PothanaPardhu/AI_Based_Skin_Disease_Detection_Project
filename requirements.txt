@@ -1,0 +1,6 @@
+streamlit
+tensorflow==2.16.2
+numpy
+pillow
+requests
+streamlit-lottie
